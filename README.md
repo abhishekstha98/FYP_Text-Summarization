@@ -1,9 +1,9 @@
 # FYP_Text-Summarization Using Bleu
 
 ## Commiters
-  Abhishek Krishna Shrestha
-  Japneet Dhaliwal
-  Dhannanjai Nautiyal
+  >Abhishek Krishna Shrestha
+  >Japneet Dhaliwal
+  >Dhannanjai Nautiyal
   
 ### Extractive Summarization
   Extractive summarization of wikipedia contents. It is done by calculating the BLEU scores of each sentence (using individual N-Gram 
