@@ -4,8 +4,8 @@ from nltk.translate.bleu_score import sentence_bleu
 import re
 import math
 
-# name = input("please enter a name : ")
-name = 'Albert Einstein'
+name = input("please enter a name : ")
+#name = 'Albert Einstein'
 
 #following are the list of words that are useless for summarization
 pro_nouns = ['i','is', 'you', 'he', 'she', 'it','its' 'which', 'we', 'they', 'me', 'him', 'her', 'us', 'them', 'what', 'who', 'whom', 'mine', 'yours', 'his', 'hers', 'ours', 'theirs', 'this', 'that', 'these', 'those', 'which', 'whose', 'whoever', 'whatever', 'whichever', 'whomever', 'myself', 'yourself', 'himself', 'herself', 'itself', 'ourselves', 'themselves']
