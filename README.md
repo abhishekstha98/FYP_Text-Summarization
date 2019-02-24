@@ -22,7 +22,7 @@
   It correlates highly with human evaluation.
   It has been widely adopted.
   The BLEU score was proposed by Kishore Papineni, et al. in their 2002 paper “BLEU: a Method for Automatic Evaluation of Machine         
-  Translation“. *https://machinelearningmastery.com/calculate-bleu-score-for-text-python/*
+  Translation“. [*TAKEN FROM*](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
   
   **Individual N-Gram Scores**
   An individual N-gram score is the evaluation of just matching grams of a specific order, such as single words (1-gram) or word pairs (2-
